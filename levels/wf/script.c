@@ -156,7 +156,7 @@ const LevelScript level_wf_entry[] = {
         MACRO_OBJECTS(/*objList*/ wf_seg7_macro_objs),
         SHOW_DIALOG(/*index*/ 0x00, DIALOG_030),
         SET_BACKGROUND_MUSIC(/*settingsPreset*/ 0x0005, /*seq*/ SEQ_LEVEL_GRASS),
-        TERRAIN_TYPE(/*terrainType*/ TERRAIN_STONE),
+        TERRAIN_TYPE(/*terrainType*/ TERRAIN_SAND),
     END_AREA(),
 
     FREE_LEVEL_POOL(),
