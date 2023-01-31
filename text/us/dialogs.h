@@ -17,7 +17,7 @@
 #endif
 
 DEFINE_DIALOG(DIALOG_000, 1, 6, 30, 200, _("\
-Wow! You're smack in the\n\
+Test You're smack in the\n\
 middle of the battlefield.\n\
 You'll find the Power\n\
 Stars that Bowser stole\n\
