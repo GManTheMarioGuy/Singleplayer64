@@ -2075,7 +2075,7 @@ so come back later.\n\
 
 DEFINE_DIALOG(DIALOG_167, 1, 4, 30, 200, _("\
 Made By GManTheMarioGuy\n\
-Credit's To\n\
+Thank's To\n\
 SuperDizzyMario64 For Helping\n\
 \n\
 \n\
