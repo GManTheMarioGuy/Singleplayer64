@@ -2084,8 +2084,7 @@ read a sign, or grab\n\
 something.\n\
 Press [B] again to throw\n\
 something you're holding."))
-  \n\"))
-
+  
 DEFINE_DIALOG(DIALOG_168, 1, 5, 30, 200, _("\
 Hey! Knock it off! That's\n\
 the second time you've\n\
