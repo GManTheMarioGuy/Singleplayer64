@@ -17,7 +17,7 @@
 #endif
 
 DEFINE_DIALOG(DIALOG_000, 1, 6, 30, 200, _("\
-Test You're smack in the\n\
+Wow! You're smack in the\n\
 middle of the battlefield.\n\
 You'll find the Power\n\
 Stars that Bowser stole\n\
@@ -400,7 +400,7 @@ in the center of the\n\
 controller to move Mario\n\
 around. Now, head for\n\
 the castle."))
-  
+
 DEFINE_DIALOG(DIALOG_034, 1, 6, 30, 200, _("\
 Good afternoon. The\n\
 Lakitu Bros., here,\n\
@@ -2074,14 +2074,17 @@ so come back later.\n\
 //--Koopa the Quick"))
 
 DEFINE_DIALOG(DIALOG_167, 1, 4, 30, 200, _("\
-Made By GManTheMarioGuy\n\
-Thank's To\n\
-SuperDizzyMario64 For Helping\n\
+Princess Toadstool's\n\
+castle is just ahead.\n\
 \n\
 \n\
-\n\
-Idk What Else To Type\n\"))
-  
+Press [A] to jump, [Z] to\n\
+crouch, and [B] to punch,\n\
+read a sign, or grab\n\
+something.\n\
+Press [B] again to throw\n\
+something you're holding."))
+
 DEFINE_DIALOG(DIALOG_168, 1, 5, 30, 200, _("\
 Hey! Knock it off! That's\n\
 the second time you've\n\
