@@ -1,5 +1,4 @@
 // == debug table ==
-#define DEFINE_DIALOG_NO_INLINE attribute ((noinline))
 
 #ifndef VERSION_EU
 
