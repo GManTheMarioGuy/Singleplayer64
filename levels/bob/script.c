@@ -93,8 +93,8 @@ const LevelScript level_bob_entry[] = {
         TERRAIN(/*terrainData*/ bob_seg7_collision_level),
         MACRO_OBJECTS(/*objList*/ bob_seg7_macro_objs),
         SHOW_DIALOG(/*index*/ 0x00, DIALOG_000),
-        SET_BACKGROUND_MUSIC(/*settingsPreset*/ 0x0000, /*seq*/ SEQ_LEVEL_GRASS),
-        TERRAIN_TYPE(/*terrainType*/ TERRAIN_GRASS),
+        SET_BACKGROUND_MUSIC(/*settingsPreset*/ 0x0000, /*seq*/ SEQ_LEVEL_SNOW),
+        TERRAIN_TYPE(/*terrainType*/ TERRAIN_SLIDE),
     END_AREA(),
 
     FREE_LEVEL_POOL(),
